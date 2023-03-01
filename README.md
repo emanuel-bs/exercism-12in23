@@ -5,7 +5,7 @@ Month | Languages
 ---|--
 January | [Python](#janeiro)
 February | [Elixir](#fevereiro), [Gleam](#fevereiro-extra)
-March | [zig](#marco)
+March | [Zig](#marco)
 April | 
 May | 
 June | 
