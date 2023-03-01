@@ -5,7 +5,7 @@ Month | Languages
 ---|--
 January | [Python](#janeiro)
 February | [Elixir](#fevereiro), [Gleam](#fevereiro-extra)
-March | 
+March | [zig](#marco)
 April | 
 May | 
 June | 
@@ -32,7 +32,16 @@ December |
 - [ ] Yacht: Practice pattern-matching and higher-order functions
 - [ ] Protein Translation: Practice higher-order functions and pattern matching further
 
-## March {#marco}
+## Mechanical March! ✨ {#marco}
+
+- [ ] Linked List*: Practice allocating/freeing memory, and pointers
+    * Some tracks have implemented "Simple Linked List" instead, which is also great to try.
+- [ ] Secret Handshake: Explore bitwise operators
+- [ ] Pangram: Explore for loops, strings and characters
+- [ ] Sieve: Practice arrays and for loops
+- [ ] Binary Search: A classic exercise for loops.
+
+
 ## April {#abril}
 ## May {#maio}
 ## June {#junho}

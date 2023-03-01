@@ -182,3 +182,12 @@ erl_crash.dump
 *.ez
 build
 erl_crash.dump
+
+### zig ###
+# Zig programming language
+
+zig-cache/
+zig-out/
+build/
+build-*/
+docgen_tmp/
