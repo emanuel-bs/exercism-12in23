@@ -38,8 +38,8 @@ December |
     * Some tracks have implemented "Simple Linked List" instead, which is also great to try.
 - [ ] Secret Handshake: Explore bitwise operators
 - [ ] Pangram: Explore for loops, strings and characters
-- [ ] Sieve: Practice arrays and for loops
-- [ ] Binary Search: A classic exercise for loops.
+- [x] Sieve: Practice arrays and for loops
+- [x] Binary Search: A classic exercise for loops.
 
 
 ## April {#abril}
