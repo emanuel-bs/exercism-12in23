@@ -36,10 +36,10 @@ December |
 
 - [ ] Linked List*: Practice allocating/freeing memory, and pointers
     * Some tracks have implemented "Simple Linked List" instead, which is also great to try.
-- [ ] Secret Handshake: Explore bitwise operators
-- [ ] Pangram: Explore for loops, strings and characters
-- [x] Sieve: Practice arrays and for loops
-- [x] Binary Search: A classic exercise for loops.
+- [x] Secret Handshake: Explore bitwise operators - `zig`
+- [x] Pangram: Explore for loops, strings and characters - `zig`
+- [x] Sieve: Practice arrays and for loops - `zig`
+- [x] Binary Search: A classic exercise for loops - `zig`
 
 
 ## April {#abril}
