@@ -34,7 +34,7 @@ December |
 
 ## Mechanical March! ✨ {#marco}
 
-- [ ] Linked List*: Practice allocating/freeing memory, and pointers
+- [x] Linked List*: Practice allocating/freeing memory, and pointers - `zig` Implement a doubly linked list
     * Some tracks have implemented "Simple Linked List" instead, which is also great to try.
 - [x] Secret Handshake: Explore bitwise operators - `zig`
 - [x] Pangram: Explore for loops, strings and characters - `zig`
