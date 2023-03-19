@@ -1,26 +1,22 @@
-// Take a look at the tests, you might have to change the function arguments
-pub const SearchError = error{
-    ValueAbsent,
-    EmptyBuffer,
-};
+const std = @import("std");
 
-pub fn binarySearch(comptime T: type, target: T, buffer: []const T) SearchError!usize {
-    const middle: usize = buffer.len / 2;
-    if (buffer.len == 0) {
-        return SearchError.EmptyBuffer;
-    } else if (buffer[middle] == target) {
-        return middle;
-    } else {
-        if (buffer[middle] < target) {
-            if (middle == buffer.len - 1) {
-                return SearchError.ValueAbsent;
-            }
-            return try binarySearch(T, target, buffer[middle + 1 ..]) + middle + 1;
+pub fn binarySearch(comptime T: type, target: T, buffer: []const T) ?usize {
+    var upper_bound: usize = buffer.len;
+    var lower_bound: usize = 0;
+
+    if (upper_bound == 0 or target > buffer[upper_bound - 1] or target < buffer[0]) {
+        return null;
+    }
+    while (lower_bound <= upper_bound) {
+        var mid_ind = @divTrunc(lower_bound + upper_bound, 2);
+        var mid = buffer[mid_ind];
+        if (mid == target) {
+            return mid_ind;
+        } else if (mid < target) {
+            lower_bound = mid_ind + 1;
         } else {
-            if (middle == 0) {
-                return SearchError.ValueAbsent;
-            }
-            return try binarySearch(T, target, buffer[0..middle]);
+            upper_bound = mid_ind - 1;
         }
     }
+    return null;
 }
