@@ -27,10 +27,10 @@ December |
 ### Extra recommended exercises {#fevereiro-extra}
 
 - [x] Hamming: Explore higher order functions - `gleam`
-- [ ] Collatz Conjecture: Try out recursion
+- [x] Collatz Conjecture: Try out recursion - `gleam`
 - [ ] Robot Simulator: Explore immutability, records, pattern matching
 - [ ] Yacht: Practice pattern-matching and higher-order functions
-- [ ] Protein Translation: Practice higher-order functions and pattern matching further
+- [x] Protein Translation: Practice higher-order functions and pattern matching further - `gleam`
 
 ## Mechanical March! ✨ {#marco}
 
