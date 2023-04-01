@@ -28,8 +28,8 @@ December |
 
 - [x] Hamming: Explore higher order functions - `gleam`
 - [x] Collatz Conjecture: Try out recursion - `gleam`
-- [ ] Robot Simulator: Explore immutability, records, pattern matching
-- [ ] Yacht: Practice pattern-matching and higher-order functions
+- [x] Robot Simulator: Explore immutability, records, pattern matching - `gleam`
+- [x] Yacht: Practice pattern-matching and higher-order functions - `gleam`
 - [x] Protein Translation: Practice higher-order functions and pattern matching further - `gleam`
 
 ## Mechanical March! ✨ {#marco}
