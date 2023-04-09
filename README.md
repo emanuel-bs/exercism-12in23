@@ -6,7 +6,7 @@ Month | Languages
 January | [Python](#janeiro)
 February | [Elixir](#fevereiro), [Gleam](#fevereiro-extra)
 March | [Zig](#marco)
-April | 
+April | [Julia](#abril)
 May | 
 June | 
 July | 
@@ -41,8 +41,14 @@ December |
 - [x] Sieve: Practice arrays and for loops - `zig`
 - [x] Binary Search: A classic exercise for loops - `zig`
 
+## Analytical April! ✨ {#abril}
 
-## April {#abril}
+- [x] ETL: Reshape data into a different format - `julia`
+- [ ] Largest Series Product: Look for patterns in a string of digits
+- [ ] Saddle Points: Work with multidimensional arrays
+- [ ] Sum Of Multiples: Practice filtering and summation of a sequence of numbers
+- [ ] Word Count: Convert a string into words and count them
+
 ## May {#maio}
 ## June {#junho}
 ## July {#julho}
