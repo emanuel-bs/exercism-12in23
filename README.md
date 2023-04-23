@@ -44,10 +44,10 @@ December |
 ## Analytical April! ✨ {#abril}
 
 - [x] ETL: Reshape data into a different format - `julia`
-- [ ] Largest Series Product: Look for patterns in a string of digits
-- [ ] Saddle Points: Work with multidimensional arrays
-- [ ] Sum Of Multiples: Practice filtering and summation of a sequence of numbers
-- [ ] Word Count: Convert a string into words and count them
+- [x] Largest Series Product: Look for patterns in a string of digits - `julia`
+- [x] Saddle Points: Work with multidimensional arrays - `julia`
+- [x] Sum Of Multiples: Practice filtering and summation of a sequence of numbers - `julia`
+- [x] Word Count: Convert a string into words and count them - `julia`
 
 ## May {#maio}
 ## June {#junho}
