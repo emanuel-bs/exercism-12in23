@@ -7,7 +7,7 @@ January | [Python](#janeiro)
 February | [Elixir](#fevereiro), [Gleam](#fevereiro-extra)
 March | [Zig](#marco)
 April | [Julia](#abril)
-May | 
+May | [Ballerina](#maio)
 June | 
 July | 
 August | 
@@ -49,7 +49,14 @@ December |
 - [x] Sum Of Multiples: Practice filtering and summation of a sequence of numbers - `julia`
 - [x] Word Count: Convert a string into words and count them - `julia`
 
-## May {#maio}
+## Mindshifting May! ✨ {#maio}
+
+- [x] Acronym: Convert a phrase to its acronym - `ballerina`
+- [x] Isogram: Check if a phrase does not contain repeating letters - `ballerina`
+- [ ] Roman Numerals: Translate a decimal number into roman numerals
+- [ ] Raindrops: Convert a number into raindrop sounds
+- [ ] Space Age: Calculate how old someone would be on the planets in our solar system
+
 ## June {#junho}
 ## July {#julho}
 ## August {#agosto}
