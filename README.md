@@ -53,11 +53,18 @@ December |
 
 - [x] Acronym: Convert a phrase to its acronym - `ballerina`
 - [x] Isogram: Check if a phrase does not contain repeating letters - `ballerina`
-- [ ] Roman Numerals: Translate a decimal number into roman numerals
-- [ ] Raindrops: Convert a number into raindrop sounds
-- [ ] Space Age: Calculate how old someone would be on the planets in our solar system
+- [x] Roman Numerals: Translate a decimal number into roman numerals - `ballerina`
+- [x] Raindrops: Convert a number into raindrop sounds - `ballerina`
+- [x] Space Age: Calculate how old someone would be on the planets in our solar system - `ballerina`
 
-## June {#junho}
+## It's the Summer of Sexps! ✨ {#junho}
+
+- [ ] Leap: Work with boolean conditions and truthiness (and optionally, lexical scoping)
+- [ ] Two-Fer: Format a string and work with an optional parameter
+- [ ] Difference of Squares: Call user-defined functions and do math in prefix notation
+- [ ] Robot Name: Work with randomness, atoms, and structured data
+- [ ] Matching Brackets: Use recursion to process a string
+
 ## July {#julho}
 ## August {#agosto}
 ## September {#setembro}
