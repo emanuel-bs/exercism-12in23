@@ -8,7 +8,7 @@ February | [Elixir](#fevereiro), [Gleam](#fevereiro-extra)
 March | [Zig](#marco)
 April | [Julia](#abril)
 May | [Ballerina](#maio)
-June | 
+June | [Clojure](#junho)
 July | 
 August | 
 September | 
